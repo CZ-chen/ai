@@ -28,7 +28,7 @@
 
  ![enter description here][2]
  
- ### 大数据对人工智能的促进
+ ### 人工智能在数据处理方面越来越重要
  ![enter description here][3]
  
  ### 人工智能技术的发展阶段
