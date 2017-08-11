@@ -1,6 +1,6 @@
 ---
 title: 什么是AI
-tags: 新建,模板,小书匠
+tags: AI
 grammar_cjkRuby: true
 ---
 
