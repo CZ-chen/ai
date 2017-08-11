@@ -53,6 +53,12 @@
 
 第三步，到2030年
 人工智能理论、技术与应用总体达到世界领先水平，人工智能核心产业规模超过1万亿元，带动相关产业规模超过10万亿元。
+
+### 中国AI产业结构
+![enter description here][7]
+
+### 如何切入人工智能领域?
+![enter description here][8]
  
  
 
@@ -63,3 +69,5 @@
   [4]: ./images/AI-path.png "AI-path"
   [5]: ./images/AI-3Level.png "AI-3Level"
   [6]: ./images/AI-chanye.png "AI-chanye"
+  [7]: ./images/AI-chanye-china.png "AI-chanye-china"
+  [8]: ./images/AI-chanye-startpoint.png "AI-chanye-startpoint"
