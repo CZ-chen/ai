@@ -59,6 +59,12 @@
 
 ### 如何切入人工智能领域?
 ![enter description here][8]
+
+### 认知智能: 突破尚不明朗
+![enter description here][9]
+
+### 感知智能: 条件具备正在发展普及
+![enter description here][10]
  
  
 
@@ -71,3 +77,5 @@
   [6]: ./images/AI-chanye.png "AI-chanye"
   [7]: ./images/AI-chanye-china.png "AI-chanye-china"
   [8]: ./images/AI-chanye-startpoint.png "AI-chanye-startpoint"
+  [9]: ./images/AI-renzhi-stat.png "AI-renzhi-stat"
+  [10]: ./images/AI-ganzhi-stat.png "AI-ganzhi-stat"
