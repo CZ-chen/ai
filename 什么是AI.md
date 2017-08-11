@@ -17,6 +17,10 @@
 
 ## AI的历史
  ![enter description here][2]
+ 
+ ## 人工智能的发展规律
+ ### 基于大数据的人工智能发展阶段
+ ### 人工智能技术的发展阶段
 
 
   [1]: ./images/AI-4WAY.png "AI-4WAY"
