@@ -12,5 +12,8 @@
 
 > 用机器去实现所有目前必须借助人类智慧才能实现的任务。
 
-AI的4种观点
+AI的4种观点![enter description here][1]
 AI的历史
+
+
+  [1]: ./images/AI-4WAY.png "AI-4WAY"
