@@ -31,9 +31,11 @@
  ### 人工智能在数据处理方面越来越重要
  ![enter description here][3]
  
- ### 人工智能技术的发展阶段
+ ### 目前为止人工智能的3个阶段：计算智能、感知智能、认知智能
+ ![enter description here][4]
 
 
   [1]: ./images/AI-4WAY.png "AI-4WAY"
   [2]: ./images/AI-History.png "AI-History"
   [3]: ./images/AI-path.png "AI-path"
+  [4]: ./images/AI-3Level.png "AI-3Level"
