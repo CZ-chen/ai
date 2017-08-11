@@ -1,13 +1,6 @@
 
 # 什么是AI
 
----
-title: 什么是AI
-tags: AI
-grammar_cjkRuby: true
----
-
-
 本章会回答下面几个问题：
 
  - 什么是AI？
