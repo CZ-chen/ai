@@ -29,13 +29,17 @@
  ![enter description here][2]
  
  ### 人工智能在数据处理方面越来越重要
- ![enter description here][3]
+ 数据处理是计算机的基本能力。这项能力也在被一直不停的增强。
+ 在图灵看来，计算机作为一种数据处理工具，并不是什么神奇的事情。他老人家更感兴趣的是，这种数据处理工具能否具备“智能”。
+ 请参考: =[《计算机器与智能》][3]
+ ![enter description here][4]
  
  ### 目前为止人工智能的3个阶段：计算智能、感知智能、认知智能
- ![enter description here][4]
+ ![enter description here][5]
 
 
   [1]: ./images/AI-4WAY.png "AI-4WAY"
   [2]: ./images/AI-History.png "AI-History"
-  [3]: ./images/AI-path.png "AI-path"
-  [4]: ./images/AI-3Level.png "AI-3Level"
+  [3]: http://www.doc88.com/p-167100140720.html
+  [4]: ./images/AI-path.png "AI-path"
+  [5]: ./images/AI-3Level.png "AI-3Level"
