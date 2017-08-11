@@ -29,10 +29,11 @@
  ![enter description here][2]
  
  ### 大数据对人工智能的促进
- 
+ ![enter description here][3]
  
  ### 人工智能技术的发展阶段
 
 
   [1]: ./images/AI-4WAY.png "AI-4WAY"
   [2]: ./images/AI-History.png "AI-History"
+  [3]: ./images/AI-path.png "AI-path"
