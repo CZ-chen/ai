@@ -39,6 +39,11 @@
  
  ### 目前为止人工智能的3个阶段：计算智能、感知智能、认知智能
  ![enter description here][5]
+ 
+ ## 人工智能产业
+ ### 产业结构分层: 基础、技术、应用
+ ![enter description here][6]
+ 
 
 
   [1]: ./images/AI-4WAY.png "AI-4WAY"
@@ -46,3 +51,4 @@
   [3]: http://www.doc88.com/p-167100140720.html
   [4]: ./images/AI-path.png "AI-path"
   [5]: ./images/AI-3Level.png "AI-3Level"
+  [6]: ./images/AI-chanye.png "AI-chanye"
