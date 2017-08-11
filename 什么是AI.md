@@ -55,16 +55,16 @@
 人工智能理论、技术与应用总体达到世界领先水平，人工智能核心产业规模超过1万亿元，带动相关产业规模超过10万亿元。
 
 ### 中国AI产业结构
-![enter description here][7]
-
-### 如何切入人工智能领域?
 ![enter description here][8]
 
-### 认知智能: 突破尚不明朗
+### 如何切入人工智能领域?
 ![enter description here][9]
 
-### 感知智能: 条件具备正在发展普及
+### 认知智能: 突破尚不明朗
 ![enter description here][10]
+
+### 感知智能: 条件具备正在发展普及
+![enter description here][11]
  
  
 
@@ -76,6 +76,7 @@
   [5]: ./images/AI-3Level.png "AI-3Level"
   [6]: ./images/AI-chanye.png "AI-chanye"
   [7]: ./images/AI-chanye-china.png "AI-chanye-china"
-  [8]: ./images/AI-chanye-startpoint.png "AI-chanye-startpoint"
-  [9]: ./images/AI-renzhi-stat.png "AI-renzhi-stat"
-  [10]: ./images/AI-ganzhi-stat.png "AI-ganzhi-stat"
+  [8]: ./images/AI-chanye-china_1.png "AI-chanye-china"
+  [9]: ./images/AI-chanye-startpoint.png "AI-chanye-startpoint"
+  [10]: ./images/AI-renzhi-stat.png "AI-renzhi-stat"
+  [11]: ./images/AI-ganzhi-stat.png "AI-ganzhi-stat"
